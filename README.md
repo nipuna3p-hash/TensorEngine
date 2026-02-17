@@ -1,8 +1,6 @@
-# 6DOF Robot Kinematics & Deep Learning IK Solver
-
+# Tensor Engine
 This project implements a Forward Kinematics (FK) engine and a Deep Learning-based Inverse Kinematics (IK) solver for a 6-degree-of-freedom (6DOF) robotic arm.
-
-## Overview
+## 6DOF Robot Kinematics & Deep Learning IK Solver Overview
 
 The project is contained within a Jupyter Notebook (`engine.ipynb`) and covers the following:
 
